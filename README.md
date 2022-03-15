@@ -8,3 +8,5 @@
 
 <!-- <img width= "200" height="100" src="https://github-readme-stats.vercel.app/api?username=Timmox443&show_icons=true&theme=radical"> 
 -->
+
+<img src= "https://komarev.com/ghpvc/?username=Timmox443&color=brightgreen" align = right> 
