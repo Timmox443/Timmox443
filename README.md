@@ -1,5 +1,5 @@
 ### Hello there 👋
-#### My name is Timothy Mutumwa. I'm a Fullstack developer from Kenya.
+#### My name is Timothy Mutumwa. I'm a Software developer from Kenya.
 - 👀 I’m interested in Python, Machine Learning and embedded systems.
 - 💞️ I’m looking to collaborate and learn in various languages.
 <p>
