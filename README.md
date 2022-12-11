@@ -1,12 +1,12 @@
 ### Hello there 👋
 #### My name is Timothy Mutumwa. I'm a Software developer from Kenya.
 
-
+<!--
 <p>
 <a href="https://twitter.com/Timmox443"><img width = "100" height = "30" src="https://img.shields.io/twitter/follow/Timm0x443?label=Twitter&style=social" alt="Twitter" align = "center"></a>
 </p>
 
-<!-- <img width= "200" height="100" src="https://github-readme-stats.vercel.app/api?username=Timmox443&show_icons=true&theme=radical"> 
+<img width= "200" height="100" src="https://github-readme-stats.vercel.app/api?username=Timmox443&show_icons=true&theme=radical"> 
 -->
 
 <p>  
