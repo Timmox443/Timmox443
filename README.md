@@ -1,9 +1,7 @@
 ### Hello there 👋
 #### My name is Timothy Mutumwa. I'm a Software developer from Kenya.
-- 👀 I’m interested in Python, C#, Machine Learning and embedded systems.
-- 💞️ I’m looking to collaborate and learn in various languages.
 
-###### learning React
+
 <p>
 <a href="https://twitter.com/Timmox443"><img width = "100" height = "30" src="https://img.shields.io/twitter/follow/Timm0x443?label=Twitter&style=social" alt="Twitter" align = "center"></a>
 </p>
