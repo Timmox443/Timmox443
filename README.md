@@ -1,5 +1,8 @@
 ### Hello there 👋
-#### My name is Timothy Mutumwa. I'm a Software developer from Kenya.
+#### My name is Timothy Mutumwa. 
+
+###### Interests: 
+##### BackEnd Development && DataScience
 
 
 <p>
