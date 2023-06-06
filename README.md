@@ -1,8 +1,7 @@
 ### Hello there 👋
 #### My name is Timothy Mutumwa. 
 
-###### Interests: 
-##### BackEnd Development && DataScience
+##### Working on IOT dev and Back End now!
 
 
 <p>
