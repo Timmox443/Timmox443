@@ -1,7 +1,8 @@
 ### Hello there 👋
 #### My name is Timothy Mutumwa. 
 
-##### Working on IOT and Back End now!
+##### Python Developer
+####### Exploring Web3
 
 
 <p>
