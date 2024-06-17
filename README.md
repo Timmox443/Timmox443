@@ -1,7 +1,7 @@
 ### Hello there 👋
 #### My name is Timothy Mutumwa. 
 
-##### Python Developer
+##### Developer
 ###### Exploring Web3
 
 
