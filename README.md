@@ -1,9 +1,9 @@
-### Hello there 👋
-#### My name is Timothy Mutumwa. 
+## Hello there 👋
+### My name is Timothy Mutumwa. 
 
-##### Developer
-###### Exploring Web3
-####### I write Smart Contracts and not so Smart Contracts, depends with the Network.
+#### Developer
+##### Exploring Web3
+###### I write Smart Contracts and not so Smart Contracts, depends with the Network.
 
 
 <p>
